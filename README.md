@@ -1,22 +1,18 @@
 # My_Flixster
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
-
----
-
 ## Flix Part 1
 
 ### User Stories
 `TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
 
 #### REQUIRED (10pts)
-- [ ] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+- [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 
 #### BONUS
-- [ ] (2pts) Views should be responsive for both landscape/portrait mode.
-   - [ ] (1pt) In portrait mode, the poster image, title, and movie overview is shown.
-   - [ ] (1pt) In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
+- [x] (2pts) Views should be responsive for both landscape/portrait mode.
+   - [x] (1pt) In portrait mode, the poster image, title, and movie overview is shown.
+   - [x] (1pt) In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
 
 - [ ] (2pts) Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
 - [ ] (2pts) Improved the user interface by experimenting with styling and coloring.
@@ -28,7 +24,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
-Describe any challenges encountered while building the app.
+I had no real toroubles as i was building the myflixster app. Everything was smooth and easy
 
 ### Open-source libraries used
 
